@@ -11,6 +11,8 @@ Articles (in Japanese) with video and commentary: [note.com/igram](https://note.
 | # | Code | Article |
 |---|------|---------|
 | 01 | [sc-sketch-01.scd](sc-sketch-01.scd) | [note](https://note.com/igram/n/n59c3a93d442f) |
+| 02 | [sc-sketch-02.scd](sc-sketch-02.scd) | [note](https://note.com/igram/n/nc8f22c20b32e) |
+| 03 | [sc-sketch-03.scd](sc-sketch-03.scd) | [note](https://note.com/igram/n/nc120352815c4) |
 
 ## Running
 
